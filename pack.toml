@@ -1,0 +1,13 @@
+name = "Create"
+author = "jflocke"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8e70381070abc8f9da8e62c066b134d4fd51f95f654d6c01b76793f16d3b04c7"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.233"
