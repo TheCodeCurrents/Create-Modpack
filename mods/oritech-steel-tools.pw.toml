@@ -1,0 +1,13 @@
+name = "Oritech steel tools"
+filename = "oritech_steel_tools-neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31870885af90ec617c87d7755b87bc61ee8e59de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7773241
+project-id = 1488867
