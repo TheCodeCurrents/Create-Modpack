@@ -301,6 +301,11 @@ hash = "f22b9b2717d5c14f4d1f43329e1a9afc71806a1c311108b4ae0db858e9d90569"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
@@ -328,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
@@ -371,6 +381,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/sable-new-sodium-compat.pw.toml"
+hash = "5f79c4d57361e1548a930ec7b24b5437bf49742e9ae022d248ab0710c963a7a1"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
@@ -378,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e8964aa3252bc02d75abbeac52b4d8deb621e56bc6b549e3127b0f2bc4a76fc2"
 metafile = true
 
 [[files]]
@@ -406,13 +426,13 @@ hash = "3c08d6331ca871abdfa7a185011d2a6349a1125cc6b2cf87f9c89ca4043dbe70"
 metafile = true
 
 [[files]]
-file = "mods/terralith.pw.toml"
-hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+file = "mods/toms-peripherals.pw.toml"
+hash = "3072d18000a88e43e937e591d115e96a196bf5e9a7eecdc56f6d2cf71f8cd3b3"
 metafile = true
 
 [[files]]
-file = "mods/toms-peripherals.pw.toml"
-hash = "3072d18000a88e43e937e591d115e96a196bf5e9a7eecdc56f6d2cf71f8cd3b3"
+file = "mods/veil.pw.toml"
+hash = "7fc272526017c9a6df2bb70ba8b60e4061fcbdb21572343963056cc7396baae3"
 metafile = true
 
 [[files]]
@@ -438,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "9bf023654ec76432e60adbdfa027244f838b0960f1bcda179480e6ab8e0c532c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
 metafile = true
 
 [[files]]
