@@ -151,6 +151,11 @@ hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
@@ -268,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "7f81ca0ff304d78545a5961599574b0260b498b90a69e13b7770550e693eb905"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
@@ -406,6 +416,11 @@ hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
@@ -448,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/veil.pw.toml"
 hash = "aa3b19752dc5e1f268c70809946514d960917f64f4fac80617162bb6c2c98835"
+metafile = true
+
+[[files]]
+file = "mods/veinminer-client.pw.toml"
+hash = "4c501b118370f8a6c73388787e820a9ddc96f4b63d654484e352f09704a23c77"
 metafile = true
 
 [[files]]
